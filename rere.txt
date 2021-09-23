@@ -1,0 +1,77 @@
+ <div class="container">
+  <div class="title">
+    <h1>What they say</h1>
+  </div>
+</div>
+
+<div class="testimonial-container">
+  <div class="testimonial-text">
+
+    <div class="testimonial-box">
+
+      <div class="testimonial-imgbox">
+        <img src="img/testimony-img-1.jpg" alt="">
+        <h3>Beautiful Name Here</h3>
+      </div>
+      <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+        similique. Perferendis autem quidem
+        cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+    </div>
+
+    <div class="testimonial-box">
+      <div class="testimonial-imgbox">
+        <img src="img/testimony-img-2.jpg" alt="">
+        <h3>Beautiful Name Here</h3>
+      </div>
+      <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+        similique. Perferendis autem quidem
+        cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+    </div>
+
+    <div class="testimonial-box">
+      <div class="testimonial-imgbox">
+        <img src="img/testimony-img-3.jpg" alt="">
+        <h3>Beautiful Name Here</h3>
+      </div>
+      <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+        similique. Perferendis autem quidem
+        cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+    </div>
+
+  </div>
+ <div class="testimonial-box">
+
+        <div class="testimonial-text">
+          <div class="testimonial-imgbox">
+            <img src="img/testimony-img-1.jpg" alt="">
+            <h3>Beautiful Name Here</h3>
+          </div>
+          <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+            similique. Perferendis autem quidem
+            cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+          </div>
+        </div>
+
+        <div class="testimonial-text">
+          <div class="testimonial-imgbox">
+            <img src="img/testimony-img-2.jpg" alt="">
+            <h3>Beautiful Name Here</h3>
+          </div>
+          <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+            similique. Perferendis autem quidem
+            cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+          </div>
+        </div>
+        
+        <div class="testimonial-text">
+          <div class="testimonial-imgbox">
+            <img src="img/testimony-img-3.jpg" alt="">
+            <h3>Beautiful Name Here</h3>
+          </div>
+          <p>repudiandae illum optio ab vero necessitatibus fuga voluptate
+            similique. Perferendis autem quidem
+            cupiditate deserunt libero perspiciatis quasi animi fuga.</p>
+          </div>
+        </div>
+
+      </div>
